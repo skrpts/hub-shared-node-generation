@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "212f2a53-dbd7-46e4-8ebe-fa7e4c7c4349"
+name: "node-generation"
+display_name: "Node Generation"
+description: "Generates all node files (skills, prompts, workflow, manifest) from an approved design specification"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-node-generation"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
