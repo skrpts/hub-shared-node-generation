@@ -3,7 +3,7 @@ id: "4529038b-51ad-4d7e-81ae-62bde16c0001"
 name: "node-generation"
 display_name: "Node Generation"
 description: "Generates all node files (skills, prompts, workflow, manifest) from an approved design specification"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "skill"
+dependencies: []
+
 contents:
   skills: 1
   prompts: 0
