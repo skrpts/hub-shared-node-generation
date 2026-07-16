@@ -3,7 +3,7 @@ id: "4529038b-51ad-4d7e-81ae-62bde16c0001"
 name: "node-generation"
 display_name: "Node Generation"
 description: "Generates all node files (skills, prompts, workflow, manifest) from an approved design specification"
-version: "1.0.2"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -25,3 +25,17 @@ contents:
   documents: 0
   assets: 0
   total: 1
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-16T14:49:53.814Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/node-generation/security"

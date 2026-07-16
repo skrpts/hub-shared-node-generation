@@ -25,7 +25,7 @@ Takes a structured design specification (from Stage 2) and generates every file 
 
 ## Output
 
-Complete file set as fenced code blocks, each labelled with its path (e.g. `skills/my-skill.md`). Every file is copy-ready — the user can save them directly into a workspace.
+Complete file set as fenced code blocks, each labeled with its path (e.g. `skills/my-skill.md`). Every file is copy-ready — the user can save them directly into a workspace.
 
 ## Limitations
 
